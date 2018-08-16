@@ -9,15 +9,23 @@
 	font-family: 'Open Sans', sans-serif, 'bold';
 	font-style: bold;
 	font-size: 50px;
-	padding: 50px;
-	position: center;
-	padding-left: 500px;
-	padding-right: 500px;
+	padding-left: 450px;
+	padding-right: 450px;
+	
 	margin-left: auto;
 	margin-right: auto;
+	margin-top: 40px;
 	
-
+	
+    
 } 
+
+#name h1{
+	margin:auto;
+    line-height:50px;
+    vertical-align:middle;
+    text-align: center;
+}
 
 #line1{
 	color: black;
@@ -31,7 +39,7 @@
 	font-size: 30px;
 	margin-top: 20px;
 	float: left;
-	padding: 20px;
+	padding: 15px;
 
 }
 
@@ -41,7 +49,7 @@
 	font-size: 30px;
 	margin-top: 20px;
 	position: center;
-	padding: 20px;
+	padding: 15px;
 }
 
 #Coding{
@@ -50,7 +58,7 @@
 	font-size: 30px;
 	margin-top: 20px;
 	float: right;
-	padding: 20px;
+	padding: 15px;
 } 
 
 #Contact{
@@ -59,7 +67,7 @@
 	font-size: 30px;
 	margin-top: 20px;
 	position: center;
-	padding: 20px;
+	padding: 15px;
 }
 
 #row1{
@@ -75,15 +83,15 @@ hr{
 }
 
 #about{
-	width: 75%;
+	width: 73%;
     border: 2px solid green;
     border-color: black;
     border-radius: 13px;
     padding: 20px;
     padding-left: 100px;
     margin: 25px;
-    margin-left: 135px;
-    margin-right: 135px;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 60px;
 }
 
@@ -102,11 +110,12 @@ hr{
 	margin-top: 20px;
 	text-align: right;
 	padding: 20px;
+	width: 80%;
 
 	}
 
 #med_work{
-	margin-top: 10px;
+	margin-top: 40px;
 	padding: 10px;
 	margin-bottom: 25px;
 	margin-left: 20px;
@@ -118,8 +127,11 @@ hr{
 	font-size: 18px;
 	float: right;
 	position: relative;
-	margin-top: 10px;
-	text-align: left;
+	margin-top: 50px;
+	text-align: center;
+	margin-left: 15%;
+	margin-right: 15%;
+	display: block;
 	padding: 20px;
 	margin-bottom: 25px;
 }
@@ -235,6 +247,16 @@ a:active  {
 text-decoration:  none;
   color:            #000000
   } 
+
+#columns{
+	max-width: 80%;
+	padding: 30px;
+}
+
+
+
+
+
 @media only screen and (max-width: 600px){
 
 }
