@@ -1,0 +1,240 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+</style>
+.h1{
+	font-family: 'Open Sans', sans-serif;
+} 
+
+#name{
+	font-family: 'Open Sans', sans-serif, 'bold';
+	font-style: bold;
+	font-size: 50px;
+	padding: 50px;
+	position: center;
+	padding-left: 500px;
+	padding-right: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	
+
+} 
+
+#line1{
+	color: black;
+	line-height: 1.6;
+	font-weight: 20px;
+} 
+
+#Home{
+	font-family: 'Open Sans', sans-serif, 'bold';
+	font-style: bold;
+	font-size: 30px;
+	margin-top: 20px;
+	float: left;
+	padding: 20px;
+
+}
+
+#medical_work{
+	font-family: 'Open Sans', sans-serif, 'bold';
+	font-style: bold;
+	font-size: 30px;
+	margin-top: 20px;
+	position: center;
+	padding: 20px;
+}
+
+#Coding{
+	font-family: 'Open Sans', sans-serif, 'bold';
+	font-style: bold;
+	font-size: 30px;
+	margin-top: 20px;
+	float: right;
+	padding: 20px;
+} 
+
+#Contact{
+	font-family: 'Open Sans', sans-serif, 'bold';
+	font-style: bold;
+	font-size: 30px;
+	margin-top: 20px;
+	position: center;
+	padding: 20px;
+}
+
+#row1{
+	padding: 50px;
+}
+
+hr{
+	border: none;
+    height: 1px;
+    /* Set the hr color */
+    color: #333; /* old IE */
+    background-color: black;
+}
+
+#about{
+	width: 75%;
+    border: 2px solid green;
+    border-color: black;
+    border-radius: 13px;
+    padding: 20px;
+    padding-left: 100px;
+    margin: 25px;
+    margin-left: 135px;
+    margin-right: 135px;
+    margin-top: 60px;
+}
+
+#pic1{
+	width: 80%;
+	height: 80%;
+	padding: 20px;
+	margin-top: 20px;
+}
+
+#about_para{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	float: right;
+	position: relative;
+	margin-top: 20px;
+	text-align: right;
+	padding: 20px;
+
+	}
+
+#med_work{
+	margin-top: 10px;
+	padding: 10px;
+	margin-bottom: 25px;
+	margin-left: 20px;
+
+}
+
+#med_work_para{
+		font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	float: right;
+	position: relative;
+	margin-top: 10px;
+	text-align: left;
+	padding: 20px;
+	margin-bottom: 25px;
+}
+
+#Home: Hover{
+	color: none;
+}
+
+
+
+#resume{
+	margin-left: 120px;
+	margin-right: 120px;
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+
+
+#contact-info{
+		width: 75%;
+		border-width: 2px;
+    border-color: black;
+    border-radius: 13px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	float: center;
+	position: relative;
+	margin-top: 10px;
+	text-align: center;
+	padding: 30px;
+	padding-top: 25px;
+	margin-bottom: 25px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#email{
+	
+	font-family: 'Open Sans', sans-serif;
+	font-size: 37px;
+	float: center;
+	position: relative;
+	margin-top: 10px;
+	text-align: center;
+	padding: 30px;
+	color: black;
+}
+
+a:#email{
+	color: black;
+}
+
+
+#location{
+
+	font-family: 'Open Sans', sans-serif;
+	font-size: 37px;
+	float: center;
+	position: relative;
+	margin-top: 10px;
+	text-align: center;
+	padding: 30px;
+}
+
+#number{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 37px;
+	float: center;
+	position: relative;
+	margin-top: 10px;
+	text-align: center;
+	padding: 30px;
+}
+
+#anna{
+	font-family: 'Open Sans', sans-serif, 'bold';
+	font-style: bold;
+	font-size: 35px;
+	padding: 50px;
+	position: center;
+	padding-left: 500px;
+	padding-right: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	color: black;
+	
+}
+
+#anna: hover{
+	color: black;
+	text-decoration: none;
+}
+
+a:link    {
+  /* Applies to all unvisited links */
+  text-decoration:  none;
+  color:            #000000;
+  } 
+
+a:visited {
+  /* Applies to all visited links */
+text-decoration:  none;
+  color:            #000000
+  } 
+a:hover   {
+  /* Applies to links under the pointer */
+ text-decoration:  none;
+  color:            #000000
+  } 
+a:active  {
+  /* Applies to activated links */
+text-decoration:  none;
+  color:            #000000
+  } 
+@media only screen and (max-width: 600px){
+
+}
